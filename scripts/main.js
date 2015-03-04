@@ -1,5 +1,17 @@
 function formBuilder(spec,$el){
-  // BEGIN EDITING HERE
+
+// var input = document.getElementById('spec').innerHTML;
+// var output = document.getElementById('result');
+
+  // document.getElementById('spec').addEventListener('click', function(){
+  //   $(this.innerHTML).bind('#result');
+  // });
+
+  var el = document.getElementById("spec".innerHTML);
+
+
+  // var info = $('#spec').appendTo($('#result'));
+
 
 
 
